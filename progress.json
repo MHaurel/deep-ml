@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:56:35.534Z",
+  "generated_at": "2026-10-21T21:15:27.013Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -169,6 +169,19 @@
       "last_pushed_at": "2026-10-21T20:56:34.901Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:1241": {
+      "kind": "problem",
+      "id": "1241",
+      "title": "Monthly Search Counts per Category with Join",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1241",
+      "path": "problems/1241-monthly-search-counts-per-category-with-join",
+      "first_solved_at": "2026-10-21T21:15:25.853Z",
+      "last_pushed_at": "2026-10-21T21:15:25.853Z",
+      "language": "sql",
+      "lines": 6
     }
   }
 }
