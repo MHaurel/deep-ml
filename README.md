@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**17** solved · 17 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimal Policy Extraction from Q-Values](https://www.deep-ml.com/problems/466) | easy | 2026-10-23 | [solution](problems/0466-optimal-policy-extraction-from-q-values) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-20 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-20 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Tinygrad: Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/919) | easy | 2026-10-24 | [solution](problems/0919-tinygrad-backprop-a-linear-layer-by-hand) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Monthly Search Counts per Category with Join](https://www.deep-ml.com/problems/1241) | medium | 2026-10-21 | [solution](problems/1241-monthly-search-counts-per-category-with-join) |

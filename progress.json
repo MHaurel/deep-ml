@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:43:36.747Z",
+  "generated_at": "2026-10-24T22:16:41.279Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -208,6 +208,19 @@
       "last_pushed_at": "2026-10-23T22:43:34.042Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:919": {
+      "kind": "problem",
+      "id": "919",
+      "title": "Tinygrad: Backprop a Linear Layer by Hand",
+      "difficulty": "easy",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/919",
+      "path": "problems/0919-tinygrad-backprop-a-linear-layer-by-hand",
+      "first_solved_at": "2026-10-24T22:16:38.322Z",
+      "last_pushed_at": "2026-10-24T22:16:38.322Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
