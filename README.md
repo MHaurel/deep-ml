@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 19 problems · 0 labs · 0 math
+**20** solved · 20 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tinygrad: Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/919) | easy | 2026-10-24 | [solution](problems/0919-tinygrad-backprop-a-linear-layer-by-hand) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Double Q-Learning Algorithm](https://www.deep-ml.com/problems/477) | medium | 2026-10-27 | [solution](problems/0477-double-q-learning-algorithm) |
 | [Monthly Search Counts per Category with Join](https://www.deep-ml.com/problems/1241) | medium | 2026-10-21 | [solution](problems/1241-monthly-search-counts-per-category-with-join) |
 
 ---
