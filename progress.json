@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:15:43.790Z",
+  "generated_at": "2026-10-28T09:53:27.336Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -299,6 +299,19 @@
       "last_pushed_at": "2026-10-28T08:15:43.162Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:792": {
+      "kind": "problem",
+      "id": "792",
+      "title": "Instruction Complexity Scoring via Unique Intention Tags",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/792",
+      "path": "problems/0792-instruction-complexity-scoring-via-unique-intention-tags",
+      "first_solved_at": "2026-10-28T09:53:26.759Z",
+      "last_pushed_at": "2026-10-28T09:53:26.759Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
