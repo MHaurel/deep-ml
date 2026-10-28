@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T09:53:27.336Z",
+  "generated_at": "2026-10-28T09:57:05.333Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -310,6 +310,19 @@
       "path": "problems/0792-instruction-complexity-scoring-via-unique-intention-tags",
       "first_solved_at": "2026-10-28T09:53:26.759Z",
       "last_pushed_at": "2026-10-28T09:53:26.759Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1289": {
+      "kind": "problem",
+      "id": "1289",
+      "title": "AgentOPSD: Stable Logit of a Probability",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/1289",
+      "path": "problems/1289-agentopsd-stable-logit-of-a-probability",
+      "first_solved_at": "2026-10-28T09:57:04.743Z",
+      "last_pushed_at": "2026-10-28T09:57:04.743Z",
       "language": "python",
       "lines": 8
     }
