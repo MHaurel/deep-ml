@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 25 problems · 0 labs · 0 math
+**26** solved · 26 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-27 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-27 | [solution](problems/0007-matrix-transformation) |
 | [Monthly Search Counts per Category with Join](https://www.deep-ml.com/problems/1241) | medium | 2026-10-21 | [solution](problems/1241-monthly-search-counts-per-category-with-join) |
+| [Tokens-per-Second Throughput from Inference Intervals](https://www.deep-ml.com/problems/1032) | medium | 2026-11-01 | [solution](problems/1032-tokens-per-second-throughput-from-inference-intervals) |
 
 ---
 
