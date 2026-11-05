@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 34 problems · 0 labs · 0 math
+**35** solved · 35 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-25 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-19 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Optimal Policy Extraction from Q-Values](https://www.deep-ml.com/problems/466) | easy | 2026-10-23 | [solution](problems/0466-optimal-policy-extraction-from-q-values) |
+| [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-11-05 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-20 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-20 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-10-28 | [solution](problems/0024-single-neuron) |
