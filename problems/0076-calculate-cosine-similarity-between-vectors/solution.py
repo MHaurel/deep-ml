@@ -1,0 +1,17 @@
+import numpy as np
+
+def cosine_similarity(v1, v2):
+	"""
+	Calculate the cosine_similarity of two vectors.
+	Args:
+		vec1 (numpy.ndarray): 1D array representing the first vector.
+		vec2 (numpy.ndarray): 1D array representing the second vector.
+	Returns:
+		The cosine_similarity of the two vectors.
+	"""
+	# Implement your code here
+	sum_vectors = sum([a*b for a,b in zip(v1, v2)])
+	sum_a2 = sum([a**2 for a in v1])
+	sum_b2 = sum([b**2 for b in v2])
+
+	return sum_vectors / (np.sqrt(sum_a2) * np.sqrt(sum_b2))
