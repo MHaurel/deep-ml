@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:35:40.897Z",
+  "generated_at": "2026-11-05T15:44:27.731Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -455,6 +455,19 @@
       "last_pushed_at": "2026-11-05T15:35:40.178Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-11-05T15:42:14.572Z",
+      "last_pushed_at": "2026-11-05T15:42:14.572Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
