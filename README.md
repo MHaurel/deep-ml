@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 27 problems · 0 labs · 0 math
+**28** solved · 28 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-10-28 | [solution](problems/0024-single-neuron) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-25 | [solution](problems/1104-sort-results-with-order-by) |
 | [Tinygrad: Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/919) | easy | 2026-10-24 | [solution](problems/0919-tinygrad-backprop-a-linear-layer-by-hand) |
+| [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-11-05 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Double Q-Learning Algorithm](https://www.deep-ml.com/problems/477) | medium | 2026-10-27 | [solution](problems/0477-double-q-learning-algorithm) |
